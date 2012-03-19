@@ -7,6 +7,7 @@ int isSquare(int num);
 int main()
 {
   int a,b,c,d;
+  //epic for loop action!
   for(a=1;a<9;a++)
     {
       for(b=0;b<9;b++)
